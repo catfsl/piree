@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "cvdds",
+  "description": "cvdds",
   "keywords": [
-    "vmess or vles"
+    "cvdds"
   ],
   "env": {
     "PROTOCOL": {
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/catfsl/piree",
+  "repository": "https://github.com/catfsl/piree",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
